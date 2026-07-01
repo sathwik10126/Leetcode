@@ -5,12 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        r={}
-        for i in range(len(nums)):
-            b=target-nums[i]
-            if b in r:
-                return [r[b],i]
-            r[nums[i]]=i
+        n=len(nums)
+        for i in range(n):
+            for j in range(i+1,n):
+                if nums[i]+nums[j]==target:
+                    return [i,j]
             
            
 
