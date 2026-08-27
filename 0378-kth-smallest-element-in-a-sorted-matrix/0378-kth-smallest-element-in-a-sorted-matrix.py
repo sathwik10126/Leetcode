@@ -10,6 +10,5 @@ class Solution(object):
             for j in i:
                 l.append(j)
         l.sort()
-        print(l)
         return(l[k-1])
         
