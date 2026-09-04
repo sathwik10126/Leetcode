@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sathwik10126/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/sathwik10126/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sathwik10126/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0189-rotate-array](https://github.com/sathwik10126/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -49,6 +50,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sathwik10126/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sathwik10126/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
