@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sathwik10126/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/sathwik10126/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sathwik10126/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/sathwik10126/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sathwik10126/Leetcode/tree/main/0137-single-number-ii/) | Medium |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sathwik10126/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/sathwik10126/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -89,4 +91,8 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/sathwik10126/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/sathwik10126/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
