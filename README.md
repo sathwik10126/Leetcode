@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/sathwik10126/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sathwik10126/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/sathwik10126/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0179-largest-number](https://github.com/sathwik10126/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/sathwik10126/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sathwik10126/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0043-multiply-strings](https://github.com/sathwik10126/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0179-largest-number](https://github.com/sathwik10126/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwik10126/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sathwik10126/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Simulation
@@ -54,6 +56,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/sathwik10126/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sathwik10126/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -65,6 +68,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/sathwik10126/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/sathwik10126/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0179-largest-number](https://github.com/sathwik10126/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
