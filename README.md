@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sathwik10126/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sathwik10126/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sathwik10126/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -74,6 +75,7 @@
 | [0056-merge-intervals](https://github.com/sathwik10126/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0179-largest-number](https://github.com/sathwik10126/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sathwik10126/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -112,4 +114,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sathwik10126/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
