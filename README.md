@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sathwik10126/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/sathwik10126/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/sathwik10126/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/sathwik10126/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
