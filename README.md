@@ -54,6 +54,7 @@
 | [0015-3sum](https://github.com/sathwik10126/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0189-rotate-array](https://github.com/sathwik10126/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sathwik10126/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/sathwik10126/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwik10126/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@
 | [0008-string-to-integer-atoi](https://github.com/sathwik10126/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0043-multiply-strings](https://github.com/sathwik10126/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0179-largest-number](https://github.com/sathwik10126/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0392-is-subsequence](https://github.com/sathwik10126/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwik10126/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sathwik10126/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Simulation
@@ -157,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/sathwik10126/Leetcode/tree/main/0480-sliding-window-median/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/sathwik10126/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
