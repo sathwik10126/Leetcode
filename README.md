@@ -21,6 +21,7 @@
 | [0480-sliding-window-median](https://github.com/sathwik10126/Leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/sathwik10126/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/sathwik10126/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sathwik10126/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sliding Window
@@ -116,6 +118,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0480-sliding-window-median](https://github.com/sathwik10126/Leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/sathwik10126/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sathwik10126/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -127,6 +130,7 @@
 | [0268-missing-number](https://github.com/sathwik10126/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sathwik10126/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/sathwik10126/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
