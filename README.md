@@ -30,6 +30,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/sathwik10126/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sathwik10126/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sathwik10126/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/sathwik10126/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sathwik10126/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +184,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/sathwik10126/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 <!---LeetCode Topics End-->
