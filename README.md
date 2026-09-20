@@ -73,10 +73,12 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwik10126/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/sathwik10126/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sathwik10126/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/sathwik10126/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sathwik10126/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/sathwik10126/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
