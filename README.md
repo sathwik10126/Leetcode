@@ -25,6 +25,7 @@
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sathwik10126/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sathwik10126/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sathwik10126/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -116,6 +117,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sathwik10126/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/sathwik10126/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sathwik10126/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sathwik10126/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
@@ -129,6 +131,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/sathwik10126/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/sathwik10126/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sathwik10126/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sathwik10126/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Binary Search
