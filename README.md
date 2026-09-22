@@ -199,4 +199,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sathwik10126/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sathwik10126/Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
