@@ -26,6 +26,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/sathwik10126/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sathwik10126/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1470-shuffle-the-array](https://github.com/sathwik10126/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sathwik10126/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sathwik10126/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
