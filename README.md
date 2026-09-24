@@ -31,6 +31,7 @@
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sathwik10126/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sathwik10126/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sathwik10126/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sathwik10126/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sathwik10126/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sathwik10126/Leetcode/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
@@ -56,6 +57,7 @@
 | [0189-rotate-array](https://github.com/sathwik10126/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sathwik10126/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sathwik10126/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sathwik10126/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sathwik10126/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sathwik10126/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
