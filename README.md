@@ -46,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sathwik10126/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0480-sliding-window-median](https://github.com/sathwik10126/Leetcode/tree/main/0480-sliding-window-median/) | Hard |
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sathwik10126/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sathwik10126/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sathwik10126/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/sathwik10126/Leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sathwik10126/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sathwik10126/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sathwik10126/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
