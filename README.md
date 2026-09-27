@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/sathwik10126/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/sathwik10126/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/sathwik10126/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sathwik10126/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -108,6 +109,7 @@
 | [0268-missing-number](https://github.com/sathwik10126/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sathwik10126/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/sathwik10126/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sathwik10126/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/sathwik10126/Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +216,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sathwik10126/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/sathwik10126/Leetcode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
