@@ -24,6 +24,7 @@
 | [0704-binary-search](https://github.com/sathwik10126/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sathwik10126/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0912-sort-an-array](https://github.com/sathwik10126/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/sathwik10126/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1051-height-checker](https://github.com/sathwik10126/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/sathwik10126/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sathwik10126/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sathwik10126/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/sathwik10126/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/sathwik10126/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sathwik10126/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/sathwik10126/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
