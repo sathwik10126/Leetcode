@@ -31,6 +31,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/sathwik10126/Leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sathwik10126/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sathwik10126/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sathwik10126/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sathwik10126/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwik10126/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sathwik10126/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/sathwik10126/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sathwik10126/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0480-sliding-window-median](https://github.com/sathwik10126/Leetcode/tree/main/0480-sliding-window-median/) | Hard |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sathwik10126/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/sathwik10126/Leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sathwik10126/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sathwik10126/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -124,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/sathwik10126/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sathwik10126/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
