@@ -6,16 +6,12 @@ class Solution(object):
         """
         for i in range(len(matrix)):
             for j in range(i+1,len(matrix)):
-                temp=matrix[i][j]
-                matrix[i][j]=matrix[j][i]
-                matrix[j][i]=temp
+                matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
         for i in range(len(matrix)):
             l=0
             r=len(matrix)-1
             while(l<r):
-                temp=matrix[i][l]
-                matrix[i][l]=matrix[i][r]
-                matrix[i][r]=temp
+                matrix[i][l],matrix[i][r]=matrix[i][r],matrix[i][l]
                 l+=1
                 r-=1
             
