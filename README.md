@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/sathwik10126/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/sathwik10126/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/sathwik10126/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/sathwik10126/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sathwik10126/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sathwik10126/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sathwik10126/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/sathwik10126/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sathwik10126/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sathwik10126/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sathwik10126/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
@@ -235,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/sathwik10126/Leetcode/tree/main/1051-height-checker/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/sathwik10126/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
