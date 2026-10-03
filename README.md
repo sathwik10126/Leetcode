@@ -69,6 +69,7 @@
 | [0048-rotate-image](https://github.com/sathwik10126/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sathwik10126/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sathwik10126/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/sathwik10126/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sathwik10126/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sathwik10126/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sathwik10126/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
